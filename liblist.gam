@@ -1,0 +1,8 @@
+game "Half-Life: Archipelago"
+type "singleplayer_only"
+nomodels "1"
+nohimodels "1"
+detailed_textures "1"
+gamedll "dlls\hlp.dll"
+cldll "1"
+secure "0"
