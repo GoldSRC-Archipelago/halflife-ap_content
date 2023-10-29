@@ -1,9 +1,12 @@
 # Ignore dlls, this can be handled by auto builds on the source code or manual releases.
-dlls/*.*
-cl_dlls/*.*
+dlls/*.dll
+cl_dlls/*.dll
 
 delta.lst
 user.scr
 config.cfg
 *.dat
 *.dt
+
+# wip dir. maybe one day i'll put this up somewhere
+.work/
